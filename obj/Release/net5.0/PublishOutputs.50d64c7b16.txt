@@ -1,0 +1,17 @@
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\WebApplication2.exe
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\WebApplication2.dll
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\WebApplication2.deps.json
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\WebApplication2.runtimeconfig.json
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\WebApplication2.pdb
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\KIIT\Documents\Guvi_Training_Csharp\WebApplication2\WebApplication2\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
